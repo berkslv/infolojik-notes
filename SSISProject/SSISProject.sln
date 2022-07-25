@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSISProject", "SSISProject\SSISProject.dtproj", "{A9C6A3CB-5274-42F5-8BB3-46AE59A98DD6}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSISProjectDeployment", "SSISProjectDeployment\SSISProjectDeployment.dtproj", "{20202919-A5D2-4E56-96F2-E1C9CC095D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C6A3CB-5274-42F5-8BB3-46AE59A98DD6}.Development|Default.ActiveCfg = Development
+		{A9C6A3CB-5274-42F5-8BB3-46AE59A98DD6}.Development|Default.Build.0 = Development
+		{20202919-A5D2-4E56-96F2-E1C9CC095D95}.Development|Default.ActiveCfg = Development
+		{20202919-A5D2-4E56-96F2-E1C9CC095D95}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D32E88-1043-4960-A2D8-25BADA055EE2}
+	EndGlobalSection
+EndGlobal

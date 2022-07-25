@@ -1,0 +1,7 @@
+C:\Users\berks_9484iah\Desktop\infolojik-notes\SSASProject\SSASProject\bin\Model.asdatabase
+C:\Users\berks_9484iah\Desktop\infolojik-notes\SSASProject\SSASProject\bin\Model.deploymenttargets
+C:\Users\berks_9484iah\Desktop\infolojik-notes\SSASProject\SSASProject\bin\Model.deploymentoptions
+C:\Users\berks_9484iah\Desktop\infolojik-notes\SSASProject\SSASProject\obj\Development\SSASProject.smproj.CoreCompileInputs.cache
+C:\Users\berks_9484iah\Desktop\infolojik-notes\SSASProject\SSASProject\obj\Development\Model.asdatabase
+C:\Users\berks_9484iah\Desktop\infolojik-notes\SSASProject\SSASProject\obj\Development\Model.deploymentoptions
+C:\Users\berks_9484iah\Desktop\infolojik-notes\SSASProject\SSASProject\obj\Development\Model.deploymenttargets
